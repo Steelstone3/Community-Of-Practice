@@ -1,5 +1,7 @@
 # A Better Way To Do Events
 
+https://github.com/Steelstone3/Shhh-Library
+
 ## Introduction
 
 Event subscriber publisher model
