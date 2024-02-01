@@ -26,11 +26,11 @@ Committing often ensures you make incremental and easy to understand progress. I
 
 "update" or "made changes" doesn't tell you anything when making a commit and you will soon forget (within an hour) what the commits purpose was and what state it would roll you back to should you need to. Write a quick description describing the incremental step "implemented ___ service".
 
-### Small surface area 
+### Small surface area
 
 When making changes to the codebase be aware others will be doing the same. Smaller change surface area will ensure you are less likely to run into merge conflicts. If you see changes that "must be made" make a note and tidy them up on a separate branch later.
 
-### Rebase often 
+### Rebase often
 
 Keeping your branch up to date means that you are less likely to run into big merge conflicts as less changes will have taken place around you on the main branch. Rebase your branch once or twice a day.
 
